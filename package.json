@@ -1,0 +1,27 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "学习使用",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiban1994/webpack.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "Edge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baiban1994/webpack/issues"
+  },
+  "homepage": "https://github.com/baiban1994/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.2"
+  }
+}
