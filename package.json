@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/baiban1994/webpack#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
     "webpack": "^4.11.1",
     "webpack-cli": "^3.0.2"
   }
