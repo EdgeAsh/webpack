@@ -59,5 +59,7 @@ module.exports = { // 前四个为主要的概念
     }),
     // 将css文件单独分离出来的插件，
     new ExtractTextPlugin('edge-[name].css')
-  ]
+  ],
+  // 代码路径解析的配置，不是非常重要的内容目前不管
+  resolve: {}
 }
