@@ -3,6 +3,7 @@ const UglifyPlugin = require('uglifyjs-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 
+// commonJS模块化
 module.exports = { // 前四个为主要的概念
   // 入口
   entry: {
