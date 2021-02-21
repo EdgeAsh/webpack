@@ -1,2 +1,6 @@
-import './index.less'
-console.log('及垃圾袋,再来啊');
+import main from './script/main'
+// import './index.less'
+
+function index() {
+    console.log('jjj', main)
+}
